@@ -8,9 +8,9 @@
 
 ### Проекты.
 
-* [Создание и анализ базы данных PostgreSQL](https://github.com/ArtemKukushkin/LegoLego)
-* [Отчет по данным Uber & Lift Dataset](https://github.com/ArtemKukushkin/Uber-Lyft-report)
-* [Sales Analytics Power BI Report](https://github.com/ArtemKukushkin/Sales_Analytics)
+* [Создание и анализ базы данных PostgreSQL](https://github.com/kapmagen/LegoLego)
+* [Отчет по данным Uber & Lift Dataset](https://github.com/kapmagen/Uber-Lyft)
+* [Sales Analytics Power BI Report](https://github.com/kapmagen/Power-BI-testovoe)
 
 ### Опыт работы
 
