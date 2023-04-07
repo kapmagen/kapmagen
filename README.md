@@ -8,7 +8,7 @@
 
 ### Проекты.
 
-* [Создание и анализ базы данных PostgreSQL (в процессе)](https://github.com/kapmagen/LegoLego)
+* [Создание и анализ базы данных PostgreSQL](https://github.com/kapmagen/LegoLego)
 * [Отчет по данным Uber & Lift Dataset (eng)](https://github.com/kapmagen/Uber-Lyft)
 * [Аналитика продаж в Power BI: построение эффективного отчета](https://github.com/kapmagen/Power-BI-testovoe)
 * [Тестовое задание Сбера](https://github.com/kapmagen/sber-test)
